@@ -1,5 +1,5 @@
 # Codility Demo Test
-My solution on the demo test on Codility.
+My solution to the Codility demo test.
 
 ## Description
 
